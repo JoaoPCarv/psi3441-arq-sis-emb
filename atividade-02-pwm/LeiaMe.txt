@@ -1,0 +1,1 @@
+Usando o Monitor do PlatformIO, aperte o botão de RESET da placa para que a conexão UART seja feita.
